@@ -1,0 +1,75 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img": "/img/hits/Luka2.jpg",
+        "title": "Jordan",
+        "body": "Air Jordan Luka 2 Cement",
+        "price": "19990 р."
+      },
+      {
+        "id": 2,
+        "img": "/img/hits/Lebron20.jpg",
+        "title": "Nike",
+        "body": "Nike Lebron XX Laser Blue",
+        "price": "17990 р."
+      },
+      {
+        "id": 3,
+        "img": "/img/hits/Curry10.jpg",
+        "title": "Under Armour",
+        "body": "Under Armour Curry 10 Magic",
+        "price": "21990 р."
+      },
+      {
+        "id": 4,
+        "img": "/img/hits/AntaGH4.jpg",
+        "title": "Anta",
+        "body": "Anta GH4 Moonlight Grey",
+        "price": "11990 р."
+      },
+      {
+        "id": 5,
+        "img": "/img/hits/Wade10.jpg",
+        "title": "Li-Ning",
+        "body": "Li-Ning WADE ALL CITY 10",
+        "price": "13990 р."
+      },
+      {
+        "id": 6,
+        "img": "/img/hits/Wilson.jpg",
+        "title": "Wilson",
+        "body": "Wilson FIBA 3X3",
+        "price": "7990 р."
+      },
+      {
+        "id": 7,
+        "img": "/img/hits/JordanBag.jpg",
+        "title": "Jordan",
+        "body": "Рюкзак Jordan Air",
+        "price": "8990 р."
+      },
+      {
+        "id": 8,
+        "img": "/img/hits/LebronT-shirt.jpg",
+        "title": "Jordan",
+        "body": "Джерси NBA LA Lakers",
+        "price": "4990 р."
+      },
+      {
+        "id": 9,
+        "img": "/img/hits/NikePro.jpg",
+        "title": "Nike",
+        "body": "Лонгслив Nike Pro Dri-FIT",
+        "price": "5990 р."
+      },
+      {
+        "id": 10,
+        "img": "/img/hits/NikeSocks.jpg",
+        "title": "Nike",
+        "body": "Nike Everyday 3 пары",
+        "price": "2590 р."
+      }
+    ]
+  }
+  

@@ -53,7 +53,14 @@ class EquipmentController {
     }
 
     async getOne(req, res){
-
+        const {id} = req.params
+        const equipment = await Equipment.findOne(
+            {
+                where: {id},
+                include: [{model: EquipmentInfo, as: 'info'}]
+            },
+        )
+        return res.json(equipment)
     }
 }
 

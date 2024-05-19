@@ -58,7 +58,7 @@ Equipment.belongsTo(Brand)
 Equipment.hasMany(BasketEquipment)
 BasketEquipment.belongsTo(Equipment)
 
-Equipment.hasMany(EquipmentInfo)
+Equipment.hasMany(EquipmentInfo, {as: 'info'});
 EquipmentInfo.belongsTo(Equipment)
 
 Type.belongsToMany(Brand, {through: TypeBrand })

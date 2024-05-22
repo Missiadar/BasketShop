@@ -4,7 +4,6 @@ import App from './App';
 import UserStore from './store/UserStore';
 import EquipmentStore from './store/EquipmentStore';
 import './assets/style.css';
-<script src="https://kit.fontawesome.com/4ce6f4727b.js" crossorigin="anonymous"></script>
 
 export const Context = createContext(null)
 
